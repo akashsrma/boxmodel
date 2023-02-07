@@ -1,0 +1,133 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+    
+} */
+
+
+.banner{
+    width: 100%;
+    height: 666px;
+    background-color: rgb(13, 8, 48);
+
+}
+.parent{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(48, 39, 110);
+    margin: 0px 400px;
+    border-radius: 12px;
+
+}
+img{
+    width: 80%;
+    height: 321px;
+    margin: 9px 40px;
+    border-radius: 12px;
+
+}
+h3{
+    color: #ffffff;
+}
+.equal{
+    margin-left: 40px;
+}
+p{
+    color: lightblue;
+    margin-left: 40px;
+    font-size: 21px;
+}
+.background{
+    width: 100%;
+    height: 40px;
+    /* background-color: blueviolet; */
+}
+.first{
+    width: 9%;
+    height: 40px;
+    /* background-color: cadetblue; */
+    float: left;
+}
+.eye{
+    width: 40%;
+    height: 40px;
+    /* background-color: lightsalmon; */
+    float: left;
+    
+}
+.clock{
+    width: 50%;
+    height: 40px;
+    /* background-color: royalblue; */
+    float: left;
+}
+.icon{
+    width: 21px;
+    height: 25px;
+    margin: 0px ;
+    float: left;
+}
+.icons{
+    width: 21px;
+    height: 25px;
+    margin: 0px 36px ;
+    float: left;
+}
+h5{
+    color: aqua;
+    font-size: 18px;
+    margin: 3px 9px;
+   
+}.one{
+    width: 13%;
+    height: 40px;
+    /* background-color: yellow; */
+    float: left;
+}
+.two{
+    width: 82%;
+    height: 40px;
+    /* background-color: hotpink; */
+    float: left;
+}
+.left{
+    margin: 0px 40px;
+    color: #ffffff;
+}
+.three{
+    width: 13%;
+    height: 60px;
+    /* background-color: yellow; */
+    float: left;
+}
+.four{
+    width: 82%;
+    height: 60px;
+    /* background-color: hotpink; */
+    float: left;
+
+}
+hr{
+    border-color: slateblue ;
+}
+  .png{
+    width: 35px;
+    height: 35px;
+    float: left;
+    
+} 
+.avatar{
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+}
+.footer{
+display: flex;
+/* justify-content: space-between; */
+align-items: center;
+}
+.span{
+    color: slateblue;
+}
+
